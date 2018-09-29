@@ -40,7 +40,7 @@ int main()
 		}
 		file.close();
 	}
-
+	
 	//load scrambled words into a vector
 	std::vector<std::string> scrambled_words;
 	{
